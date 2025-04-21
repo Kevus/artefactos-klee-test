@@ -1,0 +1,9 @@
+[submodule "libarchive"]
+	path = libarchive
+	url = https://github.com/libarchive/libarchive
+[submodule "tcpdump"]
+	path = tcpdump
+	url = https://github.com/the-tcpdump-group/tcpdump
+[submodule "tinyxml2"]
+	path = tinyxml2
+	url = https://github.com/leethomason/tinyxml2
